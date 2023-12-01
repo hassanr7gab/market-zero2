@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "كوتشي رياضي",
+    "price": 10.99,
+    "imgUrl": "/imgs/collection-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "كوتشي رياضي",
+    "price": 1199,
+    "imgUrl": "/imgs/collection-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "كوتشي رياضي",
+    "price": 1.05,
+    "imgUrl": "/imgs/collection-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ملابس حريمي",
+    "price": 10.99,
+    "imgUrl": "/imgs/product-05.png"
+  },
+  {
+    "id": 5,
+    "name": "ملابس حريمي",
+    "price": 1199,
+    "imgUrl": "/imgs/product-04.png"
+  },
+  {
+    "id": 6,
+    "name": "ملابس حريمي",
+    "price": 1.05,
+    "imgUrl": "/imgs/product-03.png"
+  }
+ 
+]
